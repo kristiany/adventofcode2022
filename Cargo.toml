@@ -14,3 +14,7 @@ src="bin/one.rs"
 [[bin]]
 name="two"
 src="bin/two.rs"
+
+[[bin]]
+name="three"
+src="bin/three.rs"
