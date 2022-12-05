@@ -9,20 +9,15 @@ edition = "2021"
 
 [[bin]]
 name="one"
-src="bin/one.rs"
 
 [[bin]]
 name="two"
-src="bin/two.rs"
 
 [[bin]]
 name="three"
-src="bin/three.rs"
 
 [[bin]]
 name="four"
-src="bin/four.rs"
 
 [[bin]]
 name="five"
-src="bin/five.rs"
