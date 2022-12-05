@@ -22,3 +22,7 @@ src="bin/three.rs"
 [[bin]]
 name="four"
 src="bin/four.rs"
+
+[[bin]]
+name="five"
+src="bin/five.rs"
