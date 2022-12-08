@@ -27,3 +27,6 @@ name="six"
 
 [[bin]]
 name="seven"
+
+[[bin]]
+name="eight"
