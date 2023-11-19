@@ -6,6 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+regex = { version = "1.1.8", features = ["pattern"] }
+itertools = { version = "0.8.2" }
 
 [[bin]]
 name="one"
@@ -51,3 +53,6 @@ name="fourteen"
 
 [[bin]]
 name="fifteen"
+
+[[bin]]
+name="sixteen"
